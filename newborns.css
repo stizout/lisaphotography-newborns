@@ -1,0 +1,67 @@
+body {
+	background: rgba(244, 195, 237, .3);
+}
+.bg-light {
+	background: white!important;
+} 
+.nav-link {
+	color: black!important;
+	font-weight: bold;
+	font-family: Raleway;
+}
+.navbar-brand {
+	color: black!important;
+	font-weight: bold;
+	font-family: Raleway;
+	}
+
+#topImage {
+	margin-top: 90px;
+}
+
+.largeDemo img {
+	border-radius: 100px;
+}
+
+.parallax1 {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(http://www.momendeavors.com/wp-content/uploads/2012/08/Newborn-Features4b.jpg);
+}
+
+#phrase1 {
+	padding: 200px 0;
+	margin: 50px 0;
+	font-family: Raleway;
+	font-size: 24px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+.parallax2 {
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://static1.squarespace.com/static/53a93f8be4b0cd8d798fc835/573cb878a3360c65142bf8c7/5a6885814192026e50b1b081/1519228744215/newborn-feet-hands-family-gillflett-london_img_4407.jpg?format=1500w);
+}
+
+.container h1 {
+	text-align: center;
+	font-family: Raleway;
+	font-size: 36px;
+	font-weight: bold;
+}
+.img-thumbnail {
+	height: 236px;
+	width: 100%;
+	margin: 5px 0;
+	object-fit: cover;
+}
+#bottom {
+	padding: 30px 0;
+	background-color: white;
+}
